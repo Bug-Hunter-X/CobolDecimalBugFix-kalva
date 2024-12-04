@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to the handling of implied decimals in COBOL's PIC clause. Some COBOL compilers may not handle this correctly, leading to unexpected truncation or rounding errors during arithmetic operations. The bug.cob file contains the erroneous code, while bugSolution.cob shows the corrected version.
